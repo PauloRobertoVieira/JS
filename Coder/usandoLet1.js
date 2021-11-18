@@ -1,3 +1,4 @@
+//declarações usando let tem escopo global, escopo de função e escopo de bloco
 var numero = 1
 
 {
