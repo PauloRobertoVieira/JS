@@ -1,2 +1,0 @@
-# JS
-Curso Web JavaScript
